@@ -7,7 +7,7 @@ import CallDetailHeader from "../components/dashboard/CallDetailHeader";
 import DispatcherBrief from "../components/dashboard/DispatcherBrief";
 import CallerMap from "../components/dashboard/CallerMap";
 import FirstAidPanel from "../components/dashboard/FirstAidPanel";
-import CallTimeline from "../components/dashboard/CallTimeline";
+import CallTimeline from "../components/dashboard/CallTimeLine";
 import CriticalCallToast from "../components/dashboard/CriticalCallToast";
 import EmptyState from "../components/shared/EmptyState";
 import { DashboardProvider, useDashboard } from "../context/DashboardContext";

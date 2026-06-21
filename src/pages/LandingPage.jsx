@@ -47,7 +47,7 @@ function Hero() {
           <span className="text-white text-xl font-bold">nkwa</span>
         </div>
         <Link
-          to="/dispatcher-login"
+          to="/get-started"
           className="text-white/80 text-sm font-medium hover:text-white transition-colors"
         >
           Dispatcher sign in
@@ -74,7 +74,7 @@ function Hero() {
               Place an emergency call
             </Button>
           </Link>
-          <Link to="/dispatcher-login" className="w-full sm:w-auto">
+          <Link to="/get-started" className="w-full sm:w-auto">
             <Button
               variant="ghost"
               size="lg"
@@ -269,7 +269,7 @@ function CallToActionSection() {
               Place an emergency call
             </Button>
           </Link>
-          <Link to="/dispatcher-login" className="w-full sm:w-auto">
+          <Link to="/get-started" className="w-full sm:w-auto">
             <Button
               variant="ghost"
               size="lg"
